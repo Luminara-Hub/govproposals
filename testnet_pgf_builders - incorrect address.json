@@ -1,0 +1,59 @@
+{
+  "proposal": {
+    "content": {
+      "title": "testing: PGF - Namada Builder Allocations - Round 1",
+      "authors": "Gavin Birch (Luminara 🔅)",
+      "discussions-to": "https://forum.namada.net/t/namada-builder-allocations-round-1-2-05m-nam/1623",
+      "created": "2025-03-28",
+      "abstract": "testing PGF proposal to distribute total of 2,050,000 NAM",
+      "motivation": "(see abstract)",
+      "details": "testing this PGF (public goods funding) proposal before asking voters to distribute a total of 2.05m NAM to the five (5) Namada addresses listed below, in recognition of the Namada community builders.",
+      "requires": "0"
+    },
+    "author": "tnam1qz7ulehp58auz2849qpn3je6tcmn4lvk35u08h5t",
+    "voting_start_epoch": 2667,
+    "voting_end_epoch": 2679,
+    "activation_epoch": 2680
+  },
+  "data": {
+    "continuous": [],
+    "retro": [
+      {
+        "Internal": {
+          "amount": "750000000000",
+          "target": "tnam1qzcgkzmddnru8w07zntd6wpywd8vptdgpu8mz44a"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "300000000000",
+          "target": "tnam1qqd2ys42y2t5vgdtdx6epstnkykvjedxxsuc6lry"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "300000000000",
+          "target": "tnam1qzt4klml5za7zn05rx569s5hfcr4nfl8zc3d4fwu"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "250000000000",
+          "target": "tnam1qzcgkzmddnru8w07zntd6wpywd8vptdgpu8mz44a"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "250000000000",
+          "target": "tnam1qqsrhr894nnupdyu2fqrg290pyxd50pq5vrj8xtf"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "200000000000",
+          "target": "tnam1qr4va7cr0ag7s7zl3j70qsr5v3m9jxu6ucdktf4z"
+        }
+      }
+    ]
+  }
+}

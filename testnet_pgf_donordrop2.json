@@ -1,0 +1,1475 @@
+{
+  "proposal": {
+    "content": {
+      "title": "testing PGF - Web3Privacy Now Donor Drop allocations",
+      "authors": "Gavin Birch (Luminara)",
+      "discussions-to": "https://forum.namada.net/t/web3privacy-now-donor-drop-allocations/1633",
+      "created": "2025-03-31",
+      "abstract": "testing PGF proposal to distribute 930,202 NAM in total to 242 addresses: 241 Web3Privacy Now donors and the front-end creator",
+      "motivation": "(see abstract)",
+      "details": "This is a PGF (public goods funding) proposal to distribute a total of 930,202 NAM\n\n1. 905,202 NAM to the 241 Namada addresses listed here: https://docs.google.com/spreadsheets/d/1uMGqq1BtPlNP25DnCGmkw78DFFEW2le9BG0GgfueRAI/edit?gid=102995741#gid=102995741&range=A1 \n\n2. 25,000 NAM to Zenode tnam1qzpl026lpzugcukkrjam6n48vl9ycmp4zqdmrwvc\n\nZenode is the creator of the Donor Drop front-end: https://github.com/zenodeapp/donor-drop-frontend \n\nWe had several (missing) tnam addresses that were updated (please see the evidence provided here: https://docs.google.com/spreadsheets/d/1uMGqq1BtPlNP25DnCGmkw78DFFEW2le9BG0GgfueRAI/edit?gid=1821879449#gid=1821879449&range=A1).\nThere were two participants that went over their maximum, and one that donated to Coin Center instead–Luminara 🔅 intends to reward these donations instead of requesting that from voters.\n\nIf approved, this proposal will take 60 days to execute and thus recipients will not receive their allocations until 60 days after the proposal passes.\n\n ## History\n\nWe (Luminara 🔅) launched Namada Prop13 (https://explorer75.org/namada/proposals/13), and are grateful that voters signalled support for a Donor Drop targeting the amazing Web3PrivacyNow team (https://web3privacy.info/) with additional support for Donor Drop front-end creator, Zenode.\n\nAttracting donations to the Web3Privacy Now team was an amazing opportunity. This is a team unrivalled in our space for pushing forward digital privacy and cypherpunk values: https://x.com/web3privacy/status/1901949939590021311 \n\nWe were proud to use the newly open sourced, community built Donor Drop front-end to support the user experience: https://forum.namada.net/t/donor-drop-app-creator-allocations-340k-nam/1565 \n\nThis was an incredible undertaking that has enabled the Donor Drop experience that we’ve come to love ❤️\n\nWhen the Donor Drop window opened on Saturday, March 22, Web3Privacy Now’s ethereum address (https://etherscan.io/address/0xb8fbd9a43cc0ceb3d9ddd58b752979a77e6f0c1d) received nearly 300 donations in about 75 minutes, totalling 52 ETH, worth about $100k when the Donor Drop finished 👀\n\n ## Future\n\nWe’re excited to have again demonstrated this new way of attracting new community members while supporting impactful teams like Web3Privacy Now and Coin Center (https://forum.namada.net/t/donor-drop-success-36-78-eth-donated-to-coin-center/1492).\n\nKeep an eye out for future Donor Drops after Namada Mainnet Phase 5 👀\n\nhttps://x.com/web3privacy/status/1903498584156156060 \n\nPlease check out this forum post for almostFitz's summary of this campaign: https://forum.namada.net/t/donor-drop-progress-50-3-eth-donated-to-web3privacy-now/1628 \n\nThanks to the many different kinds of participants 🙌 our second Donor Drop was a success 🎉 Special thanks to almostFitz for organizing this 🔆",
+      "requires": "0"
+    },
+    "author": "tnam1qz7ulehp58auz2849qpn3je6tcmn4lvk35u08h5t",
+    "voting_start_epoch": 2678,
+    "voting_end_epoch": 2690,
+    "activation_epoch": 2691
+  },
+  "data": {
+    "continuous": [],
+    "retro": [
+      {
+        "Internal": {
+          "amount": "25000000000",
+          "target": "tnam1qzpl026lpzugcukkrjam6n48vl9ycmp4zqdmrwvc"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "900000000",
+          "target": "tnam1qqpukpgqsdf73jjnudxvzcnqgqfcmuf955wehfhs"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1116000000",
+          "target": "tnam1qpz763km7npxdtp4geyn638qsknmx4jq7yfdn2f4"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qq3rm4wyf4pahlx9tyja58u4gup0kh2qkyhkq7j7"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "558000000",
+          "target": "tnam1qqwamzdgz36utps9qdk6tq4rjp3pz2lduvtvg2yj"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpn379hv5znqns37czaslhtcutvn539tfq5nh7m8"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "2340000000",
+          "target": "tnam1qzn043t6yr8chvyv5guzfr93ssjxnu4rrulrfl0f"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqtwc24xe57sns6uracgzekdlxntlfr6sq536zxa"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "918000000",
+          "target": "tnam1qzgp6nlhpuulv0t9xsh3stra8a64vyxqwytkvayr"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1098000000",
+          "target": "tnam1qqflmrnfaxxl9lc0gqhmrhhh3t230yye453pjwwz"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1800000000",
+          "target": "tnam1qzv29cf84gmx94utmx8dxca8jquqc777jux4ew6c"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqkttxarlqv8mzklsqrwslqnn2v4jmul4sjrcuas"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzu49fqhqs6d8d73qk4nnnhzggpxx67lc5zxfntq"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1080000000",
+          "target": "tnam1qps2z2m3l8ywfaqj9ejvlymz8n0p87glwg3su3ss"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrckc993xz8yzu6uwvm89atlew4h285zwchfr7a4"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzha2j54xwfcr7r2zzq97h5fqk6jejfp65pkg0yt"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqenxv9aqte70dn4q6c9gxlrsnqzm2ecau5ygezq"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr7jzv5cnk7nq083h3fmtglc074mvh6exclg9dqy"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzw6334lwa6emgsfwqgyygqte87ljyv9x5kcay7g"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzqr4f4e3hhhkp078nqa2r8x7cq6gctqpgc3uc3a"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qz3wq3c0wv3rurrz45kg9kg3nzc4s5rjq5jw3hx6"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qq2qhppfl8eh463malkayr5rjey0e6k2gcc3nj96"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qp0unyuk9kfzgdzmsdtc8dcn5wlr3gsp9y870dqt"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrd6l39zcfqwj4xdvs4fkfs2var4ve7rqv2lfzfx"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qp4upd6mtekuvxk3ncquyj9620tdta069u9yxez0"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpevw6pj45lytykc8ztuflu2780mfmfervvkr6c9"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qz2xcztqhsy6z6ka5umwd8mgvk08ppgmqurart2y"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrq0j2vd8nr3zu5ce3ny4yjlhy2rkk4k9qevrjhv"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qznv2dwax36pa2chr2ll5h37ttvkjvvwgcdyw4e7"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qztz6sc6g69wt2ljqvwtcm3n32dyf7xyeq4ucxnq"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpusu8zkdlj6rc3atknm3qrav2ek4392cutzmfws"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqkucsj0z7mp2ukdpymwkcxr99caewentgp25fq2"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrrydmvtnxynmum2jvfa6kk9rx0cqpza6gudl5au"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qp65etqgljxqspy7tmxvkjgwqsx6lz0ul5yjmkcq"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qryt9uh64w9nhfav0mxhflme56hp0hcadqn65c37"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrlz4m09u3jcgpm8gw0w80ssl6ma5d49ngf53rdd"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzkzxmahynhs5p9j09hn65yg0q2h755vuuq39a4e"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpnk2u4xr0ehhmnjae9kxhgr825p7ructqmvm4np"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpuf4hjhlqxn95vwp86qcjmsx3dg89s66ufy4ps8"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qq40972cdcwepf2dvmrrvj2szv6qxlyvlyptfvs3"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpmx39m59sda5gsalejsr8e58uffmkydwv2std3s"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzkpwwqslwxx475qhlmpfm28frzmc3vqwuk7vczl"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qql753leu2568n6quf7qxmujn64qn46jlgx8rgm2"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqh0dqmsllxq05rwf9ffr8j0ag0kukgdeu9nyt2t"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrn0ecw3xfan988vcx8thz407hnvw9hhnvdj9w92"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpgz6wdg0znk0qujhwjy2ykf20x3mpskayxqrz42"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qq03yaxus9w60g7gmejck3raz4ccd3ataqfy8hgy"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qz8ldxe6twjsnke5ntatqrgywqyatapgh5543kvt"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzzwsl26zxhz6pwamktfvd6eq6xtyhsddc6j04us"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrw0f2ec32e6j3dff9phfn4lw7mmymsnhst5mh5y"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qq88mzegnu0nhev54qeds2lftyh4jgjytyt7s2qq"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qz4dyjwrwh2rtz954arsw29wsy2yypmzns5pgrsm"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrndwqtmgyavuh6es5yly9lkh9kllh8twcct9qr0"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1080000000",
+          "target": "tnam1qq7hvn6f6kpp907zsrkref2k9w8tpcfluyp4dw9t"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrlp9yprryrspufnz9kzh3cuc62j9ep2z5gfnykt"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqmrh57l4avezzkey5f6hyl54k99w5enzst654e6"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qp67vvmfeylac9zhnagdjs8jlpdlpvq3qc2vwj9h"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qp7farm5rx4pn47lsvqr65jevvwnp25ejsheemfr"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1818000000",
+          "target": "tnam1qrvmfhygelfag57xl37jxha82fxs00uc6u29y7kl"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpdm0w44jrvjt4pzl5svcualwueqr78d7yhlqfd8"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr7lmm7m7qxmaq0mq9wdsa0watwpp965kcnz455w"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qp8s7z3yzmd27cuvmegcy52xngwgqvfumqlaq0t9"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qq8hluw8mhefjzvv2r78myeg6jvy6v25wgqehvc4"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr9fvv64qd5ulcecymamcl597nzegc7zqvq878h3"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqfljd6kq8qk3dud4583n9z3nzeh96sc0sy4d6lx"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "3600000000",
+          "target": "tnam1qpjjfl9rp8dd2fmek3edetam5wjwn25heuhn5mwe"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qp8zque8vulkz08lrma2vh3p2l6de0ak35xc73fq"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr7uvy00r7up3z4rljtv8lzrjjq5s3870ye3aynx"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrt8u7np96y36lpwyf7cs4x827s6c6cnhc90vac0"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "3600000000",
+          "target": "tnam1qzr8pgrgzhr9dretrkqjv376pwkmkuuehqqs5rvv"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrf33fdtw9y47a8nfy0thv48mhsysd883c86fjjr"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrcax5e29cs552tnp09g02vz6e88ek0m0s0rh6x5"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "4500000000",
+          "target": "tnam1qqqd47wlsmzpx8udgjhsg76aq7xyfz88cuv75lvc"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qp7spe3sy8ff4gkwx5tq63w6z8g9mefhnguhpkxh"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr973rs46uy462lrl4skdp7ss2us40m5jyxk6n7j"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrdrvknka83kv3h3vs6gwtsjzm07dradsg7cgunn"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzvunethrhvty2mn709lltpt6y0mchr3tg6a464m"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qp97jds04vs2s6xh3rcrruj4yuzdlrvvavrs0cyv"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpljp802dvcyuex28nxdqtfzlf0st4lwjvge4u40"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr76l8ll08wqz43mwqxgha9p5rc0vkuuzslfs2t9"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qqslh4lmpducvcre8rlw5q4tmg6vmdqjduvte6kn"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "3726000000",
+          "target": "tnam1qrs3dldqqujrk0gc9nm8ddywje7vqv25my28vzty"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzspt9t70qugn6980gpnktpxzae3z5nkf52jh4wv"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "810000000",
+          "target": "tnam1qqrucss6ml2phwzyq64ln9rd6lmkzh4y0skps4kg"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr760vyge2aqp6k7l3e59rmljxrkh4rphv8w7zcp"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr0p8ghqyc83re5p3s76pdl4z65unt2hese2u2ja"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrln4wg6utlya4redwxrpzut3h35z9h0t5hxffct"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qq8ynd0qu3tj495patkg0a2xp2yuvtvtguqe6htq"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr7ee77zxgzwe2mug9a0s3u9q40da4gmwvatfyxj"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpur87kyc8fcuq8mufg80ex96y9h8e9lfvg533kh"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qq4vzwndy7k4lhzx56325ww8kc7hak3nmqesxs8j"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qra66rekjjegjtmu59960dk4dv4yth8y65p7ltan"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qz5rp42u6up8vws6n9ypjrfjy20wywrxhg7zyvpf"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqsfwtmqkx4k7nfamkkqr4zjvnqmjg8msvjahxqg"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr7egtgrynt4qqaztsn9th3lhltj84vtggcey9k2"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1800000000",
+          "target": "tnam1qqurnm4mh9xw9wf24rxhvpz9nyzxvf3wpsj2rwkj"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpp7yyeue0zmyutnjww6apm7872pza0wwyv0hr2r"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr7c7hs8n078g6dkdvxgmlhtmhjquh3g4y08h3j5"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "3960000000",
+          "target": "tnam1qrue0v9nendpqyasa3r5j03d7j0qm4zmssezllv4"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qr6unqa70705gn58mr8utsfwad9egwyt9ctrsk0w"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "900000000",
+          "target": "tnam1qrju0vqzyf6d66quync2wqmv95c2905ns5zn9pcf"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqhumpr0a39ze04sjgu0pyyk6p2ys6v8qsm64yu4"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qppydh24635ed0828yp5ax3ca8f48flzq59w57tn"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr7cfvucqwmqrlf7z7u0r6xflr2vepufmvg9d8ne"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1080000000",
+          "target": "tnam1qpn99tv9d2qk5ap6qjzqwg4a7tcl57pjns0pye0s"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qz35mhwet5amm5nvnweelqt2azhsp5m77vpsumkr"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qzgqw0qunv28tm0yr32hr3khwel92ljgquas3zv3"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "720000000",
+          "target": "tnam1qzu49fqhqs6d8d73qk4nnnhzggpxx67lc5zxfntq"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qrkm9csrwkf9taj0rf7k08wdl6n5xtqfagczhq2y"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrlcnxet5e8a9rwmzzsh74qcnz7a5tmm2uuszxwq"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrpmfzz7as7n6u776vc9a6tmp7m92gkxeyehh8se"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qramkrnf63zxs9an5vc77wvqm6xhmw049gfqmxzw"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "2700000000",
+          "target": "tnam1qznxluezextxele575nr8q3raujpp3deuvlraq9u"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqqyndmj8u256zgkhucsdvjx7qy2wxz2yv9t8nhj"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qq24hl32k05lpucmzeudk8eluxegp4r6kgk9dr7v"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzdg7m8xulsxcq3qd7cns3lh628s6tf6kuy25cct"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1260000000",
+          "target": "tnam1qzhh4r72nqq8zqv03ssz57v6dayq57wc3se5nl97"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1080000000",
+          "target": "tnam1qz8fsxgnw09ady3wlt00kzl5uc3ecevc8q7ymxvs"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qz7h7xwhwk7cgs7c8v3ahezcw960ce4zhceu8lya"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzdsxv2mfp7ssmura585c8zqvkh6wkz4rgqr3zsu"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qz6pkx7xjvwu2lymcazgspl4807ysfmlfunedvwu"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrlkf0pwnup48tllmzq95t6kdajgkg4s9g9yuhav"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1800000000",
+          "target": "tnam1qr2gnn8svx0jhgppag77ppnc6kvl3399qqqzl3zx"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qp860ntstesez9nuvfvvrlz2a4nez257eyvx32zp"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qq46hep55mj24h8kktupq700v06zx2tncgumrfj4"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "810000000",
+          "target": "tnam1qqywdmqfkerjjz5dfzq4zxf4y5majtjn8gt0n6gg"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "4500000000",
+          "target": "tnam1qqkw83fmuutewkj6z4fenhzp8n8wh9xcaq7fksqs"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qq0e4q8jz5y3wd5lr0mj3kqz8s39qnurqgu4ggaz"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qqh3pvgvev0fy6fmsnpf20795xaafg0lcqc640yd"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qq52tecl0ypc2tcy8pj8f93ql9hn4v6r9ysrzwj9"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qpzy54xgxpqj98xanu3ya4jkkzfs9rm2dcegmcqt"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqtl7m3hys7t2nw27ylppl9wd7ua8cu37qjrxaqy"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qz78qkqgqp5hw70xptayw8cqvr2dhrm4zqeu3ca7"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrfar8pkacu0pct6540yrpq8m46yz688ssf9rdq5"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrllankes8t3nqg7kjfvwzdmyuq6dm94kukwm3fl"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "4140000000",
+          "target": "tnam1qp2szurem6ezlqvus34x26md2e7az23255xaalq0"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "900000000",
+          "target": "tnam1qq220a08eracxurutpw5wskx9qa39nzn3grcq7f2"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qqqely5dld7x0as4a250j9tzmdm8suph2gtz99kn"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqr4dghdht4wnq5466thnaeawzlrx40c4ysss5yy"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qzsrnwguhkvxavzetvd0sp6q679fn7zl855urnqm"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qqc87scysuz5kqfmppaafw5t6qgrkepg8u4f9zff"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqjecel6nz949lnhg69z90jq8dm6rf40k5lwx2rr"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qpw6r8tt3au5r0pz797dq6lwdj5z045hm5xlvh22"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qp57uzhgtj5m9stgsn6w6l2pes6k3xstn562ct5j"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qqccah30ch5f87c2lwfahuj68r2m306cgunel996"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpzt5v3hxfr27tjwhzqq68dmf0mzqxr9mcr4e5x5"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqfxlztq9zpzd2vhj0730vlg5d3k8n3d5qevhu0y"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qqda62ey2mpejurz8xsasgm7td7m8q8teq25e9xt"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrvp9q6tzstjg82gxgc3rpys8kc4qeemmqln9ky2"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qzrp0pkvqmv4fwee0xc9jt4mqxdvlnglvukt9f85"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "702000000",
+          "target": "tnam1qrakxgw3zakzt0suw493zj2sw7nsql99lqk5t2d6"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzt9l9lraqfx2u9vkulvcx295rcj50ap8vac57mj"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1674000000",
+          "target": "tnam1qqnyzym6scnczj53pajyyfnfj66e6r09gqwqyqyu"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "3240000000",
+          "target": "tnam1qrltmn5dnayt5z6350ssa3xrj8p9ecn59c0qh3yz"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzr0sqnukn4anpe9c2upzadc22ldjrhjvcuee4u2"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "576000000",
+          "target": "tnam1qru8208r5ky7n99wr77ta9h2dve39qg4wgk4ecjp"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpa28kphc8zvdqdnuqkl5kuu6z4fgdz6wgnakknp"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "630000000",
+          "target": "tnam1qqla08cj42k0slagn47vlznemwhuvxu0yq7zh4dg"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qppcrglcwshuc3hlqhrvxl4ue85jqllcx5r9j7x5"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpflukp4dxqp6aa347zaccnnr8ksp2f05ulk97k5"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpvffgd22qjhw8ll54rqqc3czpxwsu4rlugry66p"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qqcskv32jatv6lu0e5amfps0ls7h8g9u8ujc0efz"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qq9xcccepwfy6agslnj74k3f9589h2c4esupth6y"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qprk25554yhu3u2lkgax0c797yvna0dyfyg8xnlj"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "918000000",
+          "target": "tnam1qr3axn6sdux6cs663dcx75cuh7gqeyacsssamss0"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "3600000000",
+          "target": "tnam1qz3ru8ezhqzhh6a32uamxd8myaqtdur0cq7j80w8"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "2700000000",
+          "target": "tnam1qp5nk5jf4gj6qcngwv8tkxrapd96udmrgvlfca25"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qqgdqtmk6ceje9vft8dd327cvs0dzrxe8clzshdc"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzw4leylq6cc9l3w37kj9ze4twf65qs9kvykksea"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1800000000",
+          "target": "tnam1qqptqq5z3pcl0d8wyedjc6wt9u9nrttg4um6pskk"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpj6g92ww64dwj4n4jm32ycwj9e3uhs2acg7st8v"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1080000000",
+          "target": "tnam1qqflpraqvhwc59mh9427zsd0uwtz96wk7v6qxjuv"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1800000000",
+          "target": "tnam1qzxanshvapngdee7qmfk387jum003jwqpq4avwkt"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qrsl5a4y5fmfv5jk0ap3st45a082efertskvu4k4"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1800000000",
+          "target": "tnam1qz8wnlav5w3kjz6tps4r87rl32fy52d74yqmmel8"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1080000000",
+          "target": "tnam1qqla9pscmqgcma0un76yykesvqhwqvnqyqc0p6jc"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpg3ah3wwehlfdrjvtwauykaktuj8kwf7uxht6gh"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpnrsg94wxm6479dgfwk0kaln2pa9a0ul52n6ljn"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpqnz759e2ertj3tu5r7yhznt59uyqq4jyu8s7x9"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "4500000000",
+          "target": "tnam1qpc0djatku5qsw3u6j9xmsvgymfr8ujhwy6eg0ms"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qpmgav66ul39amnf6ttsrdrq3ur6gqehsslr50en"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr0whxptr37t5lw27lwdxpqlrds0pdy9xyl2lpwm"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpxfae2mzdlq5pzv34aqm9q09f4wcgpgyvcuhtlf"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qp22fv65tulhlpv97g0lxx0knhnv46sskq72ksrw"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qp4a2d2mflw65kysp7l6c4ggk0733g6we55u8mg8"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqae53muz9wnz2p55lnrm5dn7z9uffcedsnrh36n"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qz7h9vg47kald8xgcrkpq2vrndr4dvsxqyt4lvcr"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzu4dfvu0mfsa695jga5uay9e3lmu7ry3vlp9tqk"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qz3txyuuu6485tu4jg0jflaw6n6lx52x2qj0z2sf"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpz4js296rfxpc4pf0nxyfmy5pvnf2l3syka4t8j"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr4xtft4q34wwvlcsf6e2tssnx3e95r7ecvm77tq"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qrns9akc8d8czsvwhvws5emjc93yc4c7cyq5vy66"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qpr3fulg2uudwexpusk4xjv2uhpeapvsdcscmdza"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqw8ewzcv7lyrjjfmkl9zkh0y5k827t0jgxtxc3y"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1800000000",
+          "target": "tnam1qq7ym2t628jqlanlylzcchat2e2tye8cn52z3aud"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzts5ac83lwzcjgg6n835j0vt649wwcz0cnvf9v8"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1800000000",
+          "target": "tnam1qqanagtyecq2cgugyyg4al4h9gz8a6fjpcqrymwf"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qr9v3cgx8qg3my3f7346cdy46e0zxz9f6gc6vzcc"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qzshq9kyq6ke753zgv272fc77hd8l5pj6yjmrpr5"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "558000000",
+          "target": "tnam1qq89xja4rhp9l2g3e7p3krw4xrjkt2fqcsgaychr"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qqclpr3t23qw575wq7c33vqdexqmlayx7yed3mxl"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qr3x62kpfchcwnzuhln8eaqzl4jg3n33hsatwtvc"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qpwx2lg9zc0gakaq64w70llt6pz5ru3r9536jvpe"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1800000000",
+          "target": "tnam1qqec78ug8gv4q9xvfhc59p0ka22v9sll2qdadpjz"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qz3d55trlnhxzdqrzl9jrg4l92ar02akaghkyfwl"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qz8xye0t99yk8r4ktu7k2uspc8c564m7svvegex2"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qq452rfh3s0pnadclzuzwhl8j32fpwnv0u5tdja9"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzzuw9nm8qrex3uuut34jprdhmqyt8wv0gf6xyan"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "558000000",
+          "target": "tnam1qz9dnsq2k25qfrk3jvzk80fdmamw2xme4583tydh"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1800000000",
+          "target": "tnam1qqetlmhw77gl9rl2eteu4pzzw983f6g7rut8klq0"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "2880000000",
+          "target": "tnam1qr9g34g7axv4fyquvsgpj8q42n36ccspfud3jhrz"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qpe5j0mzph2w4h78h3ur04zqhlql3hkkqyayp5ey"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "3600000000",
+          "target": "tnam1qq82gxqmwwa2l62t9xv6n8hvhmfpjycngsclt0ty"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "558000000",
+          "target": "tnam1qzn89c2hck9amfg363v53jk4mv3wn0p2yvyk2c20"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr9xasau2gywuvwr7mypaj6emj0xpm0gycdcpjpd"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qpwqtt927zry5wztegunlltct7grx8yp8sslp4et"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1098000000",
+          "target": "tnam1qrpq9jdcqn8x0d6jtc7pvtkxrpp8g0sp25d252pr"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qq2ljd7tjy5g4mxua2u2d6hrkmm80s450qvh8tjw"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qz23dyzwdmwdyz56agdg9fxt380gz4q5tsrqzt66"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqjlhev229j96fc79jmc7v227ufcumcwvs2azdc3"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qz6a6665533k6m8vdz9pnw9ljmt4e2nc0gy63nt0"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "576000000",
+          "target": "tnam1qqknwzaz3z904p4t4y2plpmnwns3y94xfyy720s9"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1080000000",
+          "target": "tnam1qrxycfgmp2fww89jwz8p6yxxyxhmx2g0kcylcgf9"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qryhjs60hptdk4cjntq5uklw4ysfnwrgk5g4vrr7"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1260000000",
+          "target": "tnam1qqq4qg6yzvglwp02yd5zl94ahkdv6fd0wygdte3s"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1620000000",
+          "target": "tnam1qzgzt3exvmhnpwhaxcs3m5npedkd4548guendkcy"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qr8tn8afnehmme59tlkx2uhvtp6zn4g7e5mxw59z"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1800000000",
+          "target": "tnam1qqnv862naz0vtzwwc57d8jksgwl68emrcuphqc85"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qpq2dcjyxthah9yr3mu8wprl0zn5qx728qxd0cje"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qzkzymx48lr2wgg60d49cvqjlsw5lnftavgx6a80"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr3vtznjx7cpkkd5fk5ryzmzs2h707n94ukqjuzw"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1800000000",
+          "target": "tnam1qpmjdn9cwss4yrsa3cm3st4q38lshqh805pte20l"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qr3qa433l0c06xqdg8cnmsmgdnmxwuaj7vlrmeja"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "900000000",
+          "target": "tnam1qreesn4kgtmmzxdktvel399paekz99wj4c9487hy"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "900000000",
+          "target": "tnam1qrlt22jgrmwnku8gwx0445wvr2dxadv3wycu2n00"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzqzx5mn3hsu58hq467zzlruhvw5apm0rg45lahu"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qp9mfh0u0aqrnzkdajktjj6thhznac40vu3akx6p"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qruz9v5j80raxdt5a4umr9tr2n43rcr2l5z3cdr2"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qqkkq0eg8u6v0n4h4882mrydd40yhdv9tye95t5k"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "540000000",
+          "target": "tnam1qp2h9z2pjmj4n69ga8u27f3447lcz7agz5er94th"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "5400000000",
+          "target": "tnam1qzd9qlvzat9trz56tpw8drnatdjwqh9dvyuz2ujr"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "1080000000",
+          "target": "tnam1qzq9whet95ln30h8e4nefu4c952ur2qqksc5dnf0"
+        }
+      }
+    ]
+  }
+}

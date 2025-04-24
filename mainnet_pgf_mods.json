@@ -1,0 +1,71 @@
+{
+  "proposal": {
+    "content": {
+      "title": "PGF - Discord Mod Allocations - 945k NAM",
+      "authors": "Gavin Birch (Luminara 🔅)",
+      "discussions-to": "https://forum.namada.net/t/discord-mod-allocations-945k-nam/1651",
+      "created": "2025-04-22",
+      "abstract": "PGF proposal to distribute total of 945,000 NAM to Discord mods",
+      "motivation": "Recognize early Discord mods & settle any past expectations",
+      "details": "Hello! 👋 I’m writing this on behalf of Luminara 🔅\n\n## Proposal\n\nThis is a Public Goods Funding (PGF) proposal to allocate **945,000 NAM** in total to the Namada Discord moderators:\n\n* 180k NAM -- 0xGolden | deNodes `tnam1qz7mggh56wlljs0wfgkxj6r9xe36cacfkgnr99kc`\n\n* 180k NAM -- Tree `tnam1qpyrs8q9qzupca4gdalmwevkmdsyxenswq5xvstm`\n\n* 180k NAM -- kelpie `tnam1qqqdr4y4zymc3ctsthpy0fcezdn4jvjl6ye073k0`\n\n* 90k NAM -- Hoan Wu `tnam1qpnyherlyqel5x5xqyfqngpqymyeqrf5fgqvxc38`\n\n* 90k NAM -- Daniel | Mandragora `tnam1qzcgkzmddnru8w07zntd6wpywd8vptdgpu8mz44a`\n\n* 90k NAM -- sirouk | TuDudes `tnam1qq0t2s4dmqvxqwl25fm3eyckgekgftggfg9nfe5h`\n\n* 90k NAM -- TG `tnam1qq0ph5svjjspkaz2ntw49j2zq8855237qcfuupjt`\n\n* 45k NAM -- M | CryptoSJ `tnam1qpj9aye7zd86pgfpjh2pnal3yjzrfkff2s6n5fq4`\n\n## Context\n\nThe people with mod roles in our Discord have stayed alert through quiet times, and helped us to weather storms through seasons of chaos. It’s been a long haul, and these folks have helped us chug along; 🚂 some since January 2023, others since January 2024.\n\nMods were not included in the genesis proposal, but we think that this PGF proposal offers an opportunity to close that loop with gratitude and good faith.\n\n## History\n\nModeration hasn’t been a formal role in Namada. There was no understanding or agreement that mod privileges would come with compensation, and expectations were either left unspoken or were inconsistent across time, project phases, and responsible individuals.\n\nHowever, moderation *is* often compensated in other crypto communities, and some of these contributors moderate other crypto communities professionally. Others jumped in purely out of care and commitment to Namada’s early days. But all have supported our community through both calm and chaotic seasons. 🎢\n\nWhile we haven’t treated this as a job, we do believe this is the right moment to recognize and thank them. This proposal acknowledges that ambiguity, and aims to resolve it cleanly.\n\n## Future\n\nThis isn’t about setting precedent. We believe moderation in our community, going forward, should not be transactional. Instead of moderators as enforcers or outsourced roles, we hope to encourage stewardship: welcoming newcomers, encouraging healthy dialogue, and supporting autonomy with the help of bots and tools to handle spam.\n\nThis proposal will allow us to close the chapter on early moderation efforts with clarity, appreciation, and fairness, and move into our next chapter with stronger alignment.\n\n## Thanks\n\nThank you to @ke1pie, who has been instrumental in patiently carrying this forward for many months, and thank you to everyone who helped keep the lights on 💡",
+      "requires": "0"
+    },
+    "author": "tnam1qztdx4y7a3wn0qmgcgtrty237vcnp9f9hs3rt3k7",
+    "voting_start_epoch": 568,
+    "voting_end_epoch": 592,
+    "activation_epoch": 593
+  },
+  "data": {
+    "continuous": [],
+    "retro": [
+      {
+        "Internal": {
+          "amount": "180000000000",
+          "target": "tnam1qz7mggh56wlljs0wfgkxj6r9xe36cacfkgnr99kc"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "180000000000",
+          "target": "tnam1qpyrs8q9qzupca4gdalmwevkmdsyxenswq5xvstm"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "180000000000",
+          "target": "tnam1qqqdr4y4zymc3ctsthpy0fcezdn4jvjl6ye073k0"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "90000000000",
+          "target": "tnam1qpnyherlyqel5x5xqyfqngpqymyeqrf5fgqvxc38"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "90000000000",
+          "target": "tnam1qqsrhr894nnupdyu2fqrg290pyxd50pq5vrj8xtf"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "90000000000",
+          "target": "tnam1qq0t2s4dmqvxqwl25fm3eyckgekgftggfg9nfe5h"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "90000000000",
+          "target": "tnam1qq0ph5svjjspkaz2ntw49j2zq8855237qcfuupjt"
+        }
+      },
+      {
+        "Internal": {
+          "amount": "45000000000",
+          "target": "tnam1qpj9aye7zd86pgfpjh2pnal3yjzrfkff2s6n5fq4"
+        }
+      }
+    ]
+  }
+}
